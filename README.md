@@ -43,16 +43,16 @@ Vous êtes consultant pour Olist, une entreprise brésilienne qui propose une so
 ## 🧑‍💻 Utilisation
 
 ### Analyse Exploratoire
-Pour explorer et préparer les données pour le clustering, exécutez le notebook Moreno_Bastien_1_notebook_exploration_122023.ipynb.
+Pour explorer et préparer les données pour le clustering, exécutez le notebook `Moreno_Bastien_1_notebook_exploration_122023.ipynb`.
 
 ### Modélisation de la Segmentation
-Pour essayer différentes approches de modélisation pour la segmentation, exécutez le notebook Moreno_Bastien_2_notebook_essais_122023.ipynb.
+Pour essayer différentes approches de modélisation pour la segmentation, exécutez le notebook `Moreno_Bastien_2_notebook_essais_122023.ipynb`.
 
 ### Simulation de la Fréquence de Mise à Jour
-Pour déterminer la fréquence de mise à jour nécessaire pour la segmentation, exécutez le notebook Moreno_Bastien_3_notebook_simulation_122023.ipynb.
+Pour déterminer la fréquence de mise à jour nécessaire pour la segmentation, exécutez le notebook `Moreno_Bastien_3_notebook_simulation_122023.ipynb`.
 
 ### Présentation
-Pour consulter la présentation préparée pour obtenir des retours sur l'approche, ouvrez le fichier Moreno_Bastien_4_presentation_122023.pdf.
+Pour consulter la présentation préparée pour obtenir des retours sur l'approche, ouvrez le fichier `Moreno_Bastien_4_presentation_122023.pdf`.
 
 ## 👨‍💻 Auteur
 Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.\
